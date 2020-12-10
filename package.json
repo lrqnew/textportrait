@@ -1,0 +1,11 @@
+{
+  "name": "nameavatar",
+  "version": "1.0.0",
+  "description": "姓名文字头像,头像是名字的最后两个文字和背景颜色生成，文字颜色为白色，背景自动生成。",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "李瑞清",
+  "license": "ISC"
+}
